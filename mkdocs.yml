@@ -1,4 +1,5 @@
 site_name: Trauma Intervention Program of Northern Nevada - Resources
+site_url: https://resources.tipnnv.org/
 theme:
   name: material
   features:
