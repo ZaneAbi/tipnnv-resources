@@ -2,23 +2,4 @@
 
 ## Heading
 
-some example text
-
-some example text
-
-More randomness
-
-more randomness
-
-what is this
-
-Weird huh
-
-
-Extra weird
-
-super
-
-very
-
-crazy
+WIP
