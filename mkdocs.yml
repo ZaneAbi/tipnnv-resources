@@ -14,7 +14,7 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-  logo: assets/TIPNN-Heart-with-Pulse-Left-Long-Logo.svg
+  logo: assets/TIPNNV-Main-Circle-Logo-with-Thin-Outline.svg
   language: en
   palette:
     - media: "(prefers-color-scheme: dark)"
