@@ -68,19 +68,23 @@ extra:
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - admonition
+  - pymdownx.inlinehilite:
+  - pymdownx.snippets:
+  - admonition:
   - pymdownx.arithmatex:
       generic: 
-  - footnotes
-  - pymdownx.superfences
-  - attr_list
+  - footnotes:
+  - pymdownx.superfences:
+  - attr_list:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      toc_depth: 2
+
+
 
 copyright: |
-  &copy; 2024 <a href="https://tipnnv.org" target="_blank" rel="noopener">Trauma Intervention Program of Northern Nevada</a> - 
+  &copy; 2024 <a href="https://tipnnv.org" target="_blank" rel="noopener">Trauma Intervention Program of Northern Nevada</a> <br> 
   <a href="#__consent">Change cookie settings</a>
 
