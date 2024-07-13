@@ -33,6 +33,20 @@ theme:
       accent: red
   favicon: images/TIP-Letters.svg
 
+nav:
+  - Home: index.md 
+  - Coping After a Tragedy: coping-after-a-tragedy.md
+  - Emotional First Aid: emotional-first-aid.md
+  - Coroner's Office: coroner's-office.md
+  - Estates/Paperwork: handling-estates.md
+  - Fire: fire.md
+  - Media: media.md
+  - Recursos En Espanol: recursos-en-espanol.md
+  - Support Services Directory: support-services-directory.md
+
+  
+
+
 plugins:
   - privacy:
       enabled: true
@@ -76,6 +90,7 @@ markdown_extensions:
   - footnotes:
   - pymdownx.superfences:
   - attr_list:
+  - md_in_html:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
