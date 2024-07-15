@@ -17,17 +17,24 @@ theme:
   logo: assets/TIPNNV-Main-Circle-Logo-with-Thin-Outline.svg
   language: en
   palette:
+      # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
     - media: "(prefers-color-scheme: dark)"
       scheme: default
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/brightness-4
         name: Switch to dark mode
       primary: indigo
       accent: red
+      
     - media: "(prefers-color-scheme: light)"
       scheme: slate
       toggle:
-        icon: material/toggle-switch
+        icon: material/brightness-7
         name: Switch to light mode
       primary: indigo
       accent: red
