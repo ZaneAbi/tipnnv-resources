@@ -73,7 +73,7 @@ extra:
       link: https://www.facebook.com/TIPNNV/
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/@TIPNNV
-    - homepage: https://tipnnv.org
+  homepage: https://tipnnv.org
 
   consent:
     title: Cookie consent
