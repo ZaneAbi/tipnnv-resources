@@ -44,21 +44,18 @@ nav:
   - Recursos En Espanol: recursos-en-espanol.md
   - Support Services Directory: support-services-directory.md
 
-  
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.j
 
 
 plugins:
-  - privacy:
-      enabled: true
-      cache: true
-      cache_dir: .cache/plugins/privacy
-      log: true
-      assets: true
-      assets_fetch: true
-      assets_fetch_dir: assets/external
-      links: true
-      links_noopener: true
   - search:
+  - table-reader:
+      base_path: config_dir
+      data_path: .
+      search_page_directory: true
+      allow_missing_files: false
       
 
 extra:
@@ -96,6 +93,8 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - toc:
       toc_depth: 2
+  - tables
+  - def_list
 
 
 
