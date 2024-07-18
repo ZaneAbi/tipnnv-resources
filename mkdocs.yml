@@ -8,7 +8,7 @@ theme:
     - navigation.sections
     - navigation.path
     - navigation.top
-
+    - navigation.instant
     - search.suggest
     - search.highlight
     - content.tabs.link
