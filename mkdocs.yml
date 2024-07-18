@@ -1,5 +1,5 @@
 site_name: TIPNNV Resources
-site_url: ""
+site_url: "https://resources.tipnnv.org"
 theme:
   name: material
   features:
@@ -53,7 +53,7 @@ nav:
 
 extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
-  - javascripts/tablesort.j
+  - javascripts/tablesort.js
 
 
 plugins:
