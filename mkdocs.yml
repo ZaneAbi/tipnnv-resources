@@ -3,12 +3,12 @@ site_url: ""
 theme:
   name: material
   features:
-    - navigation.tabs
+
     - navigation.tracking
     - navigation.sections
     - navigation.path
     - navigation.top
-    - toc.integrate
+
     - search.suggest
     - search.highlight
     - content.tabs.link
@@ -48,7 +48,7 @@ nav:
   - Estates/Paperwork: handling-estates.md
   - Fire: fire.md
   - Media: media.md
-  - Recursos En Espanol: recursos-en-espanol.md
+  - Recursos En Español: recursos-en-espanol.md
   - Support Services Directory: support-services-directory.md
 
 extra_javascript:

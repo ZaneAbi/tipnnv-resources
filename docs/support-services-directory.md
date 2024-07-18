@@ -4,7 +4,7 @@
 
 [**`Big Brothers Big Sisters of N. Nevada`**](https://www.bbbsnn.org/)
 
-:    [(775) 352-3202](tel7753523202)
+:    [(775) 352-3202](tel:7753523202)
 
 [**`Child Find`**](https://www.washoeschools.net/domain/657)
 
