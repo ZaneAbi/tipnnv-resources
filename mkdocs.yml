@@ -55,15 +55,8 @@ extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
   - javascripts/tablesort.js
 
-
 plugins:
   - search:
-  - table-reader:
-      base_path: config_dir
-      data_path: .
-      search_page_directory: true
-      allow_missing_files: false
-      
 
 extra:
   social:
@@ -74,6 +67,20 @@ extra:
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/@TIPNNV
   homepage: https://tipnnv.org
+  analytics:
+    provider: google
+    property: G-8VT097M09V
+    feedback:
+      title: Was this page helpful
+      ratings:
+        - icon: material/thumb-up-outline
+          name: This page was helpful
+          data: 1
+          note: Thanks for your feedback!
+        - icon: material/thumb-down-outline
+          name: This page could be improved
+          data: 0
+          note: Thanks for your feedback!
 
   consent:
     title: Cookie consent
@@ -82,7 +89,6 @@ extra:
       as to measure the effectiveness of our resources and whether users
       find what they're searching for. With your consent, you're helping us to
       make our resources better.
-
 
 markdown_extensions:
   - pymdownx.highlight:
