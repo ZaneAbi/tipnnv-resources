@@ -1,11 +1,11 @@
 site_name: TIPNNV Resources
-site_url: "https://resources.tipnnv.org"
+site_url: ""
+site_description: The Trauma Intervention Program of Northern Nevada provides resources to those experiencing a tragedy. Learn more about our resources here.
 theme:
   name: material
   features:
     - navigation.instant.progress
     - navigation.tracking
-    - navigation.path
     - navigation.top
     - navigation.instant
     - search.suggest
@@ -13,6 +13,7 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - toc.follow
   logo: assets/TIPNNV-Main-Circle-Logo-with-Thin-Outline.svg
   language: en
   palette:
@@ -99,10 +100,16 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - toc:
+      toc_depth: 2
   - tables
   - def_list
+  - smarty
 
-
+validation:
+  omitted_files: warn
+  absolute_links: relative_to_docs  # Or 'relative_to_docs' - new in MkDocs 1.6
+  unrecognized_links: warn
+  anchors: warn  # New in MkDocs 1.6
 
 copyright: |
   &copy; 2024 <a href="https://tipnnv.org" target="_blank" rel="noopener">Trauma Intervention Program of Northern Nevada</a> <br> 
