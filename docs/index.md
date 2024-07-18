@@ -91,7 +91,7 @@ __For emergencies please call [911](tel:911) immediately. If you have questions 
         * Burial/Cremation Assitance
         * Many More...
 
-    [:octicons-arrow-right-24: Aprende más](support-services-directory.md)
+    [:octicons-arrow-right-24: Learn More](support-services-directory.md)
 
 </div>
 
