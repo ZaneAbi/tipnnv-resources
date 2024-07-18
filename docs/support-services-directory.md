@@ -1,5 +1,9 @@
 # Support Services Directory
 
+The following page provides a condensed list of businesses & services available in our community. This list is provided as a convenience to you. We hope you will find one or more of these resources helpful during this difficult time. Please be aware we do not endorse these businesses and/or services, nor can we guarantee the quality of their products and/or services. You should use this section as a starting point in your search, then conduct your own more in-depth search for the business or service that is right for you.
+
+Call Nevada [211](tel:211) or text your 5-digit zip code to TXT211 (898211) for more resources in your community.
+
 ## Adolescents
 
 [**`Big Brothers Big Sisters of N. Nevada`**](https://www.bbbsnn.org/)
