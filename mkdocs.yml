@@ -57,6 +57,13 @@ extra_javascript:
 
 plugins:
   - search:
+  - privacy:
+      enabled: true
+      cache: true
+      cache_dir: .cache/plugins/privacy
+      assets: true
+      assets_fetch: true
+      assets_fetch_dir: assets/external
 
 extra:
   social:
