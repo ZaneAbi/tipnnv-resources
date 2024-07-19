@@ -14,6 +14,7 @@ theme:
     - content.code.annotation
     - content.code.copy
     - toc.follow
+    - search.share
   logo: assets/TIPNNV-Main-Circle-Logo-with-Thin-Outline.svg
   language: en
   palette:
@@ -57,7 +58,13 @@ extra_javascript:
 
 plugins:
   - search:
-
+  - privacy:
+      enabled: true
+      cache: true
+      cache_dir: .cache/plugins/privacy
+      assets: true
+      assets_fetch: true
+      assets_fetch_dir: assets/external
 
 extra:
   social:
