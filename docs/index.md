@@ -3,7 +3,9 @@
 ![TIPNNV Logo](assets/tipnnv-main-circle-logo-with-thick-outline.png){: style="height:250px;width:250px"}
 
 
-__For emergencies please call [911](tel:911) immediately. If you have questions or need assistance from TIP please call our 24/7 number: [(775) 745-5514](tel:7757455514). For more information about our program please visit our main website at [tipnnv.org](https://tipnnv.org)__
+__For emergencies please call [911](tel:911) immediately. If you have questions or need assistance from TIP please call our 24/7 number: [(775) 745-5514](tel:7757455514).__
+
+__For more information about our program please visit our main website at [tipnnv.org](https://tipnnv.org). Let us know how we can better support you be sending us some feedback at [tipnnv.org/client-feedback](https://tipnnv.org/client-feedback)__
 
 ## What we have to offer
 <div class="grid cards" markdown>
