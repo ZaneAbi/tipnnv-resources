@@ -14,7 +14,6 @@ theme:
     - content.code.annotation
     - content.code.copy
     - toc.follow
-    - search.share
   logo: assets/TIPNNV-Main-Circle-Logo-with-Thin-Outline.svg
   language: en
   palette:
