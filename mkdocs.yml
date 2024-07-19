@@ -71,7 +71,7 @@ extra:
     provider: google
     property: G-8VT097M09V
     feedback:
-      title: Was this page helpful
+      title: Was this page helpful?
       ratings:
         - icon: material/thumb-up-outline
           name: This page was helpful
